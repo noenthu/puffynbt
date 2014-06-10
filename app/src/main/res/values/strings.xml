@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PuffynBt1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="result">BT Connection Status</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
